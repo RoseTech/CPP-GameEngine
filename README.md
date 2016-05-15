@@ -1,2 +1,2 @@
 # C++ GameEngine
-Testing the Java language for game development
+C++ language for game development
